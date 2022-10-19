@@ -1,0 +1,19 @@
+
+
+h1{
+    color:rgb(255, 255, 255);
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+    font-size: 70 px;
+}
+body{
+    color:rgb(255, 188, 188);
+    background-color: #353535;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+
+h2{
+    color:rgb(255, 255, 255);
+    font-size: 30 px;
+    font-family:'Times New Roman', Times, serif;
+}
