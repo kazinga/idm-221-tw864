@@ -20,10 +20,10 @@ img{
     flex-basis: 40%;
 }
 .text{
-    font-weight: bold;
     color:rgb(226, 226, 207);
     font-family: 'inter';
     font-size: 475%;
+    font-weight: bold;
     margin: 0%;   
     padding-left: 10px;
 }
@@ -45,4 +45,12 @@ p2{
     font-size: 95%;
     margin: 0%;   
     padding-left: 100px;
+}
+h3{
+    font-weight: normal;
+    color:rgb(226, 226, 207);
+    font-family: 'inter';
+    font-size: 64 px;
+    margin: 43 PX;   
+    align-self: center;
 }
