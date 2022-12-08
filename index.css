@@ -5,7 +5,7 @@ h1{
     font-weight: bold;
     color:rgb(226, 226, 207);
     font-family: 'inter';
-    font-size: 675%;
+    font-size: 9vw;
     margin: 0%;   
 }
 ..box {
@@ -15,11 +15,13 @@ h1{
   }
   
   img {
-    width: 100%;
-    height: 100%;
+    height: 58vw;
+    float:left
   }
+video{
+    height: 100vw;
 }
-.image{
+.image{  
     flex-basis: 40%;
 }
 .text{
@@ -28,7 +30,15 @@ h1{
     font-size: 475%;
     font-weight: bold;
     margin: 0%;   
-    padding-left: 10px;
+}
+h2{
+    font-weight: bold;
+    color:rgb(226, 226, 207);
+    font-family: 'inter';
+    font-size: 9vw;
+    margin: 0%;   
+    float: right;
+    padding-left: 0%;
 }
 br {
     margin:10 em 0;/* FF for instance */
@@ -37,18 +47,18 @@ p{
     font-weight: 600;
     color:rgb(226, 226, 207);
     font-family: 'inter';
-    font-size: 95%;
+    font-size: 75%;
     margin: 0%;   
     padding-left: 10px;
-    padding-top: 0%;
+    padding-top: 70%;
 }
 p2{
-    font-weight: 500;
+    font-weight: 300;
     color:rgb(226, 226, 207);
     font-family: 'inter';
-    font-size: 95%;
-    margin: 0%;   
-    padding-left: 100px;
+    font-size: 100%;
+    text-align: center
+    
 }
 h3{
     font-weight: normal;
@@ -57,4 +67,11 @@ h3{
     font-size: 64 px;
     margin: 43 PX;   
     align-self: center;
+}
+p3{
+    font-weight: 300;
+    color:rgb(226, 226, 207);
+    font-family: 'inter';
+    font-size: 100%;
+    text-align: right;
 }
