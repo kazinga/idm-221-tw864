@@ -8,15 +8,16 @@ h1{
     font-size: 675%;
     margin: 0%;   
 }
-.box{
-    align-items:flex-start;
-    display: flex;
-    justify-content: left;
-    padding: 0%;
-}
-img{
-    max-height: max-content;
-    border: 3px solid rgb(226, 226, 207);
+..box {
+    width: 30%;
+    height: 200px;
+    border: 5px dashed #f7a239;
+  }
+  
+  img {
+    width: 100%;
+    height: 100%;
+  }
 }
 .image{
     flex-basis: 40%;
