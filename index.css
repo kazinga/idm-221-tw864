@@ -1,4 +1,7 @@
-
+@font-face {
+  font-family: inter;
+  src:url(https://fonts.googleapis.com/css?family=Inter);
+}
 html,body{
     background-color: rgb(78, 118, 81);
     color:rgb(226, 226, 207);
