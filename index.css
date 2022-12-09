@@ -1,7 +1,11 @@
-body{
+
+html,body{
     background-color: rgb(78, 118, 81);
     color:rgb(226, 226, 207);
     font-family: 'inter';
+    height: 100%;
+    overflow-x: hidden; 
+    width:100%;
     
 }
 h1{
