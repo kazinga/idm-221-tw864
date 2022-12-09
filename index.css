@@ -19,7 +19,13 @@ h1{
 }
   
   img {
+    align-content: center;
+    border:3px;
+    border-color: rgb(226, 226, 207);
     height: 58vw;
+    min-height: 50px;
+    
+   
     
   }
 
