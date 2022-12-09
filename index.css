@@ -1,20 +1,18 @@
 body{
     background-color: rgb(78, 118, 81);
-    font-family: 'inter';
     color:rgb(226, 226, 207);
+    font-family: 'inter';
     
 }
 h1{
-    font-weight: bold;
-    color:rgb(226, 226, 207);
+  color:rgb(226, 226, 207);
     font-family: 'inter';
     font-size: 9vw;
-    margin: 0%;   
+    font-weight: bold;
 }
-.container{
-   padding-top: ;
-   border: rgb(226, 226, 207);
-   
+#works{
+  border: rgb(226, 226, 207); 
+  align-items: center;  
 }
   
   img {
@@ -39,54 +37,47 @@ video{
     ;
 }
 h2{
-    font-weight: bold;
     color:rgb(226, 226, 207);
-    font-family: 'inter';
+    font-family: "inter";
     font-size: 10vw;
-    margin: 0%;   
-    float: left
-    
+    font-weight: bold;
 }
-br {
-    margin:10 em 0;/* FF for instance */
-  }
+
 p{
-    font-weight: 600;
     color:rgb(226, 226, 207);
     font-family: 'inter';
     font-size: 85%;
-    margin: 0%;   
-    padding-left: 10px;
-    padding-top: 70%;
+    font-weight: 600;
+    padding-left: 1px; /*line it up*/
+
 }
 
 h3{
-    font-weight: normal;
+    align-self: center;
     color:rgb(226, 226, 207);
     font-family: 'inter';
-    font-size: 64 px;
-    margin: 43 PX;   
-    align-self: center;
+    font-size: 64px;
+    font-weight: normal;
+    margin: 43px;   
 }
 
 .center{
-text-align: center;
-font-weight: 300;
 color:rgb(226, 226, 207);
 font-family: 'inter';
 font-size: 100%;
-
+font-weight: 300;
+text-align: center;
 }
 .Home {
     background-color : rgb(78, 118, 81);
+    border-color: rgb(226, 226, 207);
+    border-radius: 4px;
     color: rgb(226, 226, 207);
     padding: 10px 20px;
-    border-radius: 4px;
-    border-color: rgb(226, 226, 207);
   }
   
   #mybutton {
-    position: fixed;
     bottom: 10px;
+    position: fixed;
     right: 10px;
   }
