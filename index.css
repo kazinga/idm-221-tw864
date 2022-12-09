@@ -1,12 +1,7 @@
-
 @font-face {
-  font-family: 'interregular';
-  src: url('inter-variablefont_slntwght-webfont.woff2') format('woff2'),
-       url('inter-variablefont_slntwght-webfont.woff') format('woff');
-  font-weight: normal;
-  font-style: normal;
-
-}
+          font-family: inter;
+          src:url(https://fonts.googleapis.com/css?family=Inter);
+      }
 html,body{
     background-color: rgb(78, 118, 81);
     color:rgb(226, 226, 207);
@@ -18,7 +13,7 @@ html,body{
 }
 h1{
   color:rgb(226, 226, 207);
-    font-family: 'interregular';
+    font-family: 'inter';
     font-size: 9vw;
     font-weight: bold;
 }
