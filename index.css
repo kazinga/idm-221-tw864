@@ -4,7 +4,7 @@ html,body{
     color:rgb(226, 226, 207);
     font-family: 'inter';
     height: 100%;
-    overflow-x: hidden; 
+    overflow: hidden; 
     width:100%;
     
 }
